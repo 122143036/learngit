@@ -6,3 +6,5 @@ Git is free software.
 Git is a distributed version control system.
 Git is free software.
 时光穿梭机部分
+
+工作区与暂存区
