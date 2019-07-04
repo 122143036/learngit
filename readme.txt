@@ -15,4 +15,8 @@ Git is free software.
 
 8.分支上的修改
 
-9.主分支master上的修改
+<<<<<<< HEAD
+9.解决分支冲突
+=======
+9.解决分支冲突
+>>>>>>> feature1
